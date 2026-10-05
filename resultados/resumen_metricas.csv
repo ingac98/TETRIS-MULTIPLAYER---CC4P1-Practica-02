@@ -1,0 +1,2 @@
+fecha,jugadores_inicio,jugadores_fin,filas,columnas,calentamiento_s,medicion_config_s,medicion_real_s,ticks,tick_prom_ms,tick_min_ms,tick_max_ms,muestras_recursos,memoria_prom_mb,memoria_max_mb,hilos_prom,hilos_max,motivo
+20261004_134150_681,1,0,17,27,10,120,71.623,144,0.074047,0.045600,0.385100,72,7.543,8.808,17.000,17,partida terminada
